@@ -1,7 +1,8 @@
-package com.gxdlzyjsxy.majorintroduce;
+package com.gxdlzyjsxy.majorintroduce.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import com.gxdlzyjsxy.majorintroduce.R;
 
 public class MainActivity extends AppCompatActivity
 {
