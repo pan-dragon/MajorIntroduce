@@ -22,5 +22,6 @@ public class IndexFragment extends Fragment
 	{
 		return inflater.inflate(R.layout.fragment_index, container, false);
 		// This is Test Content
+		//this is remote of test content for PDY that to send orgison to me, which to  here.
 	}
 }
